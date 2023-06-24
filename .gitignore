@@ -1,0 +1,15 @@
+# Ignore compiled output files
+*.o
+*.class
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files or build directories
+/tmp/
+/build/
+/node_modules
